@@ -9,3 +9,8 @@ We are trying to write this together as a group
 ## Crappies
 
 - Digging out a car from the snow in the parking lot at 10 Fahrenheit is hard
+
+## crappy: 
+  - have a poorly rated comp sci teacher 
+## happy: 
+  - spending more time with my friends this semster 
